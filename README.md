@@ -1,6 +1,3 @@
-Here's a sample GitHub README for your Contact App project:
-
----
 
 # Contact App 🚀
 
